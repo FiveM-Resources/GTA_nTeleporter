@@ -1,0 +1,21 @@
+[
+    {
+        "nomZone": "EXAMPLE 1",
+        "zoneEnter": "Enter zone",
+        "zoneOut": "Out zone",
+        "posIn":  {  "x": 63.1736, "y": -1061.63,  "z": 29.3821, "h": 0},
+        "posOut":  {  "x" : 67.025, "y": -1054.93, "z": 29.3679, "h": 0},
+        "markerID" : 25,
+        "markerColor" :{"r": 0, "g": 0, "b": 200, "a" : 200}
+    },
+
+    {
+        "nomZone": "EXAMPLE 2",
+        "zoneEnter": "First zone",
+        "zoneOut": "Out zone",
+        "posIn":  {  "x": 2659.34, "y": 1640.62,  "z": 25.0429, "h": 0},
+        "posOut":  {  "x" : 339.54, "y": -584.692, "z": 74.1657, "h": 0},
+        "markerID" : 25,
+        "markerColor" :{"r": 0, "g": 255, "b": 0, "a" : 255}
+    }
+]
